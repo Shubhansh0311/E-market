@@ -125,7 +125,7 @@ const initialUser = {
             phone: 9125658565
         },
         {
-            fName: "shubh",
+            fName: "shubha",
             lName: "agrawal",
             city: 'JBP',
             house: 2,
